@@ -1,0 +1,14 @@
+{
+  "name": "new_casting_stone_setting_intake_form",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "axios": "^1.7.7",
+    "dotenv": "^16.4.5",
+    "moment": "^2.30.1"
+  }
+}
